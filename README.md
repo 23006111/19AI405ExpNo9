@@ -143,8 +143,6 @@ while(player):
 ![ai 1](https://github.com/23006111/19AI405ExpNo9/assets/145981696/98d2fd0c-3906-44d7-bb3b-cc3c3f213fdc)
 ![ai 3](https://github.com/23006111/19AI405ExpNo9/assets/145981696/236920d6-408e-41e8-9d67-646a49cf51b3)
 
-<h1>
-
 
 Result
 </h1>
