@@ -138,7 +138,7 @@ while(player):
         ~~~
 <hr>
 <h1>Sample Input and Output:</h1>
-<hr>
+
 ![ai](https://github.com/23006111/19AI405ExpNo9/assets/145981696/0e74f2d3-2144-4f85-b8c1-f17b6074572d)
 
 
