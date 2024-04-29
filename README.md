@@ -146,5 +146,5 @@ while(player):
 <h1>
 Result
 </h1>
-   Therefore,Wumpus World Problem using Python demonstrating Inferences from Propositional Logic solved successfully.
+    Therefore,Wumpus World Problem using Python demonstrating Inferences from Propositional Logic solved successfully.
 
