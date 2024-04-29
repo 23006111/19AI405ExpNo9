@@ -138,7 +138,7 @@ while(player):
         break
         ~~~
 <hr>
-<h1>Sample Input and Output:</h1>
+<h1>Sample Input and Output</h1>
 
 
 
