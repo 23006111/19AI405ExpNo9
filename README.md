@@ -140,12 +140,11 @@ while(player):
 
 <hr>
 <h1>Sample Input and Output</h1>
-
-
-
 ![ai](https://github.com/23006111/19AI405ExpNo9/assets/145981696/e0bb285e-41dd-4ec0-92d1-4bd01e5fdac9)
 
 <h1>
+
+
 Result
 </h1>
     Therefore,Wumpus World Problem using Python demonstrating Inferences from Propositional Logic solved successfully.
