@@ -139,13 +139,14 @@ while(player):
         break
 ~~~
 
+<hr>
+<h1>Sample Input and Output:</h1>
+<hr>
 
-<h1>Sample Input and Output :
 ![Screenshot 2024-05-05 144246](https://github.com/23006111/19AI405ExpNo9/assets/145981696/47534879-fcd7-4acc-84dc-5cbac4f5b687)
 ![Screenshot 2024-05-05 144303](https://github.com/23006111/19AI405ExpNo9/assets/145981696/e8482ea6-15a1-4649-8c09-f5609cadc56e)
 
-
-Result
+<h1>
+    RESULT:
 </h1>
-    Therefore,Wumpus World Problem using Python demonstrating Inferences from Propositional Logic solved successfully.
-
+      Therefore,Wumpus World Problem using Python demonstrating Inferences from Propositional Logic solved successfully. 
