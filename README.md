@@ -136,7 +136,7 @@ while(player):
         score-=1000
         print("Ahhhhh!!!!\nYou fell in pit.\nAnd your score is: ",score,"\n")
         break
-
+~~~
 
 
 <h1>Sample Input and Output
