@@ -139,10 +139,10 @@ while(player):
 ~~~
 
 
-<h1>Sample Input and Output
-![ai 1](https://github.com/23006111/19AI405ExpNo9/assets/145981696/cb422875-5b3c-459d-a4df-4fc5d5b79cfd)
+<h1>Sample Input and Output :
+![Screenshot 2024-05-05 144246](https://github.com/23006111/19AI405ExpNo9/assets/145981696/47534879-fcd7-4acc-84dc-5cbac4f5b687)
+![Screenshot 2024-05-05 144303](https://github.com/23006111/19AI405ExpNo9/assets/145981696/e8482ea6-15a1-4649-8c09-f5609cadc56e)
 
-![ai 3](https://github.com/23006111/19AI405ExpNo9/assets/145981696/76ef1b2e-971e-4dd6-a3d1-d088c2c73881)
 
 Result
 </h1>
